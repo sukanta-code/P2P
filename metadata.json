@@ -1,0 +1,6 @@
+{
+  "name": "P2P DIRECT",
+  "description": "Serverless. Secure. Direct.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
